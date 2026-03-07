@@ -1,3 +1,23 @@
+# Catatan Belanja Mila 🛒
+
+A simple grocery list app built with React + TypeScript.
+
+## Features
+- Add grocery items
+- Delete items
+- Delete all grocery items
+- Check purchased items
+- Sort items by name
+- Sort items by checked status
+- Sort items by input order
+- Animated ladybug🐞
+
+## Tech Stack
+- React
+- TypeScript
+- Vite
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
