@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/catatan-belanja-mila/',
+  base: '/catatan_belanja_mila/',
   plugins: [react()],
 })
